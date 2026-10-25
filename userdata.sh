@@ -41,10 +41,10 @@ cat <<EOF > /var/www/html/index.html
   <h1>Hi, I'm Rishikesh Nate</h1>
   <p>DevOps · CLoud . Gaming XD</p>
   <p>
-    <a href="https://blog.praveshsudha.com" target="_blank">Blog</a> |
-    <a href="https://x.com/praveshstwt" target="_blank">Twitter</a> |
-    <a href="https://www.youtube.com/@pravesh-sudha" target="_blank">YouTube</a> |
-    <a href="https://www.linkedin.com/in/pravesh-sudha/" target="_blank">LinkedIn</a>
+    <a href="https://blog.rishikesh-nate/.com" target="_blank">Blog</a> |
+    <a href="https://x.com/rishikesh-nate/" target="_blank">Twitter</a> |
+    <a href="https://www.youtube.com/@rishikesh-nate/" target="_blank">YouTube</a> |
+    <a href="https://www.linkedin.com/in/rishikesh-nate/" target="_blank">LinkedIn</a>
   </p>
 </body>
 </html>
