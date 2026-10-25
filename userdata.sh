@@ -1,7 +1,5 @@
 #!/bin/bash
 
-## Change the Name and Links accordingly
-
 # Update the package list and install Nginx
 apt update -y
 apt install nginx -y
@@ -16,7 +14,7 @@ cat <<EOF > /var/www/html/index.html
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Pravesh Sudha | Portfolio</title>
+  <title>Rishikesh Nate| Portfolio</title>
   <style>
     body {
       font-family: Arial, sans-serif;
